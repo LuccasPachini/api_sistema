@@ -1,0 +1,13 @@
+Dúvidas:
+-Entender realmente o que cada etapa faz (controller, route e inicializar no app.ts - arquivo principal)
+--Controller é a lógica de negócios do sistema, a route é aonde criaremos as rotas e chamar a função do controller.
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------
+Pontos vistos possíveis de estudos:
+-Injeção de Dependências
